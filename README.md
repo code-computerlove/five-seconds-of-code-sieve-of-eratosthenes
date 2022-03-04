@@ -2,7 +2,7 @@
 
 The 24 Hours of Le Mans (French: 24 Heures du Mans) is an endurance-focused sports car race held annually near the town of Le Mans, France. It is the world's oldest active endurance racing event. Unlike fixed-distance races whose winner is determined by minimum time, the 24 Hours of Le Mans is won by the car that covers the greatest distance in 24 hours.
 
-For this challenge you are presented with an algorithm for finding prime numbers, the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) and have to see, in 5 seconds, how many times you can find all primes under 1,000,000. Naive implementations have been provided in C#, JavaScript and Go.
+For this challenge you are presented with an algorithm for finding prime numbers, the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) and have to see, in 5 seconds, how many times you can find all primes under 1,000,000. Naive implementations have been provided in C#, F#, JavaScript and Go.
 
 Working in pairs, see how far you can optimize the code. Significant gains are possible.
 
@@ -19,7 +19,7 @@ Working in pairs, see how far you can optimize the code. Significant gains are p
 
 ## Execution
 
-The .NET race
+The .NET races
 
 ```
 dotnet run -c Release
