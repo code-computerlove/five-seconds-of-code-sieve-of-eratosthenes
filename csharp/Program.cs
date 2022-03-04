@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 
-namespace DragRace
+namespace Race
 {
 	public class Program
 	{
