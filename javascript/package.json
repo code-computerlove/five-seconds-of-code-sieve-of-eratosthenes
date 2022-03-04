@@ -1,0 +1,14 @@
+{
+	"name": "5-seconds-of-code",
+	"version": "1.0.0",
+	"description": "Vroom!",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Andrew Grant (https://www.codecomputerlove.com/)",
+	"license": "ISC",
+	"engines": {
+		"node": ">=16"
+	}
+}
