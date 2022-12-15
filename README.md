@@ -15,7 +15,7 @@ Working in pairs, see how far you can optimize the code. Significant gains are p
 
 ## Prerequisites
 
-.NET 6, Node 16 or Go 1.17+
+.NET 6+, Node 18+ or Go 1.19+
 
 ## Execution
 

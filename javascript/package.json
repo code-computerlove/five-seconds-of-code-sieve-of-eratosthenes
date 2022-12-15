@@ -9,6 +9,6 @@
 	"author": "Andrew Grant (https://www.codecomputerlove.com/)",
 	"license": "ISC",
 	"engines": {
-		"node": ">=16"
+		"node": ">=18"
 	}
 }
